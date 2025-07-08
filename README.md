@@ -29,7 +29,7 @@ This is Day 6 of my 30-Day React Relearning Journey. Today’s focus is:
 
 ## 📸 Preview
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/theme-toggle-app/main/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/theme-toggle/main/screenshot.png)
 
 ---
 
